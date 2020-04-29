@@ -7,11 +7,11 @@ Es un simple codigo que crea un menú mediante DOM editing que te permite espame
 ## ¿Como lo uso?
 Es muy sencillo de utilizar, solo tienes que ejecutar el codigo en la pagiba.
 Si no sabes como, aqui tienes los pasos:
-- 1) Ves a WhatsApp web e incia sesión.
+- Ves a WhatsApp web e incia sesión.  
 ![](https://cdn.discordapp.com/attachments/701404637827170376/705083238066028594/unknown.png)  
 
 - Abre las herramientas de desarollador (ctrl+ shift + i).
-- Ves a la pestaña que dice **Console**.
+- Ves a la pestaña que dice **Console**.  
 ![](https://cdn.discordapp.com/attachments/701404637827170376/705094368905920532/unknown.png)  
 
 - Pega el codigo (ctrl + v) y presiona enter para ejecutarlo.
